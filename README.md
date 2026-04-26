@@ -44,5 +44,5 @@ Befolgen Sie diese Schritte, um das Projekt lokal auszuführen:
 
 1. **Repository klonen:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/projeto-vhs.git](https://github.com/SEU-USUARIO/projeto-vhs.git)
-   cd projeto-vhs
+   git clone [https://github.com/RuanaRamos/Projekte_VHaS.git](https://github.com/RuanaRamos/Projekte_VHaS.git)
+   cd Projekte_VHaS
