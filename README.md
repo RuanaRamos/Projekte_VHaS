@@ -1,5 +1,9 @@
 ## Projeto_VHaS
 
+# 🤖 Projeto VHaS - Versatile Handling Solution
+
+Você pode acessar o assistente técnico online aqui:
+[Acesse o VHaS Assistent](https://[seu-link-aqui.streamlit.app/](https://projetovhs-26042026.streamlit.app/)
 Projekte_VHaS Kognitive Übersetzung und digitale Inklusion in der deutschen Industrie
 
 Die Herausforderung: Der digitale Graben in der Produktion
