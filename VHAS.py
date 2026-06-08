@@ -17,9 +17,8 @@ chave_api = os.getenv("GROQ_API_KEY")
 # --- 2. CONFIGURAÇÃO DO MODELO (GROQ) ---
 llm = ChatGroq(
     api_key=chave_api,
-    model_name="llama-3.3-70b-versatile",
+    model_name="llama3-8b-8192",  
     temperature=0.4
-)
 
 # --- 3. CARREGAR O PDF ---
 caminho_pdf = "Manual_Tecnico_VHaS_.pdf"
